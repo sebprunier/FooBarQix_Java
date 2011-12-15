@@ -4,6 +4,13 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+/**
+ * Test class for FooBarQix.<br/>
+ * Used for regression tests if FooBarQix.java code is changed.
+ * 
+ * @author sebastien.prunier
+ * 
+ */
 public class FooBarQixTest {
 
     @Test

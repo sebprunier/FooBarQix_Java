@@ -1,2 +1,5 @@
-Java solution for FooBarQix
-http://www.code-story.net/2011/11/16/foobarqix.html
+Java solution for FooBarQix game : http://www.code-story.net/2011/11/16/foobarqix.html
+--------------------------------------------------------------------------------------
+Compile and run the class (I used java 1.6.0_26) : fr.devoxx.foobarqix.FooBarQix
+
+If you want to run the unit test, add junit to the classpath (I used junit-4.9.jar)
